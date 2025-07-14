@@ -18,14 +18,9 @@ For the 2nd task,I worked on a project titled “Sales Agent Performance Report 
 
 #OUTPUT
 
-#View the pdf
+#View the pdf report
 
 [Sales_Report.pdf](https://github.com/user-attachments/files/21216089/Sales_Report.pdf)
-
-<img width="595" height="829" alt="Image" src="https://github.com/user-attachments/assets/d50b93ee-ac08-4779-b296-722785dc664f" />
-
-
-<img width="598" height="838" alt="Image" src="https://github.com/user-attachments/assets/c4b3b0b4-3afd-42c0-8113-adc5b4733b56" />
 
 
 
