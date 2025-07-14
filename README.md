@@ -18,6 +18,10 @@ For the 2nd task,I worked on a project titled “Sales Agent Performance Report 
 
 #OUTPUT
 
+#View the pdf
+
+[Sales_Report.pdf](https://github.com/user-attachments/files/21216089/Sales_Report.pdf)
+
 <img width="595" height="829" alt="Image" src="https://github.com/user-attachments/assets/d50b93ee-ac08-4779-b296-722785dc664f" />
 
 
